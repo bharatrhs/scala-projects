@@ -1,0 +1,16 @@
+first 
+
+
+* $ git init 
+
+* $ git add README.md
+
+* $ git commit -m "first commit"
+
+* $ git config --global user.email "abc@gmail.com"
+
+* $ git config --global user.name "username"
+
+* $ git remote add origin https://github.com/username/proect.git
+
+* $ git push -u origin master
